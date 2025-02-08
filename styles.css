@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+button {
+    font-size: x-large;
+    border-color: red;
+    background-color: red;
+    
+}
