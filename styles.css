@@ -1,11 +1,11 @@
 h1 {
     color: red;
 }
-body {
+.firstBody {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    
     
 }
 button {
@@ -13,4 +13,7 @@ button {
     border-color: red;
     background-color: red;
     
+}
+.divOllama{
+    height: max-content
 }

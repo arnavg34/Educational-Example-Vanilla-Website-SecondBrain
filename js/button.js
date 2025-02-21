@@ -1,4 +1,4 @@
-var buttonCount = 0;
+let buttonCount = 0;
 document.getElementById("myButton").innerHTML = `Click me ! : ${buttonCount}`;
 const updateButton = () => {
     buttonCount += 1;
